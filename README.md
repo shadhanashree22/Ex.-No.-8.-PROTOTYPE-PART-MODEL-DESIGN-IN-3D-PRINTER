@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/shadhanashree22/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150231910/ceb57597-9d87-40e3-8bf2-7fb83fcefc44)
+
+
+### Name: S V SHADHANASHREE
+### Register Number: 212223230202
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
