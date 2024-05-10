@@ -53,7 +53,8 @@
 
 ## Output:
 
-![image](https://github.com/shadhanashree22/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150231910/ceb57597-9d87-40e3-8bf2-7fb83fcefc44)
+![image](https://github.com/shadhanashree22/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150231910/bdf8ab8a-6183-477b-9e51-8eac623b3664)
+
 
 
 ### Name: S V SHADHANASHREE
